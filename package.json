@@ -2,7 +2,7 @@
   "name": "koa-component-bundler",
   "description": "Highly opinionated Koajs component bundler middleware.",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "Clinton Wood",
     "email": "clint@anotherway.co.za"

@@ -3,6 +3,7 @@ components
 node_modules
 logs
 .symlinks
+*.tgz
 *.log
 *.bak
 *.7z
