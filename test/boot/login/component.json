@@ -1,0 +1,7 @@
+{
+  "name": "login",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

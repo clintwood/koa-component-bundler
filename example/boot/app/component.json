@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "app.css"
+  ],
+  "templates": [
+    "page.html"
+  ],
+  "dependencies": {
+    "necolas/normalize.css": "3.0.1",
+    "component/dom": "*"
+  }
+}

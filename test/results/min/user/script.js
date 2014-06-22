@@ -1,0 +1,1 @@
+require.register("./user",function(e,r){r.exports.name="I am user."});

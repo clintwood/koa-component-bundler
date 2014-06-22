@@ -1,0 +1,9 @@
+{
+  "name": "admin",
+  "paths": [".."],
+  "locals": ["login"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

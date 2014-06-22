@@ -1,0 +1,12 @@
+{
+  "name": "user",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "user.css"
+  ],
+  "paths": [".."],
+  "locals": ["login"]
+}

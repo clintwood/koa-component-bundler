@@ -1,0 +1,8 @@
+Makefile
+build
+components
+test
+example
+*.tgz
+*.sublime-project
+*.sublime-workspace

@@ -1,0 +1,1 @@
+require.register("./admin",function(i,r){function e(){this.name="Administrator"}require("./login");r.exports=e});
